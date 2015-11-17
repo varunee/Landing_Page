@@ -310,6 +310,15 @@ h1 {
 .team-member img {
   margin: auto;
 }
+.imgclass
+ {
+ text-align:center;
+ }
+
+.imgclass img
+ {
+ margin:auto;
+ }
 .social-icon a {
   background: #1ab394;
   color: #fff;
